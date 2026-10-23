@@ -10,7 +10,7 @@ No existing brokerage's telephone, street address, office hours, office photogra
 python -m http.server 8080 --directory dist
 ```
 
-Website: https://alexandermarkovdev.github.io/insurance-plovdiv/
+Website: https://Lumina-StudioBG.github.io/insurance-plovdiv/
 
 ## Publish
 
